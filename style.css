@@ -223,6 +223,13 @@ nav {
 }
 
 
+/* HIDE PHOTO CAPTION */
+.profile p {
+    display: none;
+}
+
+
+
 /* =========================
    SECTION TITLES
 ========================= */
