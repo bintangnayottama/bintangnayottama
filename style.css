@@ -406,6 +406,20 @@ section:not(.home) {
 }
 
 
+/* PROJECT TAGS */
+
+.project-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 18px;
+}
+
+.project-tags .tag {
+    margin-top: 0;
+}
+
+
 /* =========================
    CONTACT
 ========================= */
